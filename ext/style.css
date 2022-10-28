@@ -1,0 +1,8 @@
+:root{
+    --th_table:#e3e3e3e3;
+}
+
+table{
+    width: 100%;
+    background: var(--th_table);
+}
